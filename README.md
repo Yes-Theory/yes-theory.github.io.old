@@ -1,6 +1,8 @@
-This project will be archived in the near future.
-
-
+## 
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+```diff
+- This project will be archived in the near future.
+```
 
 <h1 align="center">Welcome to Yes Theory 👋</h1>
 

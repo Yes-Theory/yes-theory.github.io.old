@@ -1,3 +1,7 @@
+This project will be archived in the near future.
+
+
+
 <h1 align="center">Welcome to Yes Theory 👋</h1>
 
 <img alt="License: MIT" src='https://img.shields.io/github/license/yes-theory/yes-theory.github.io'>
